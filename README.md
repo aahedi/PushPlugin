@@ -1,8 +1,9 @@
 # [DEPRECATED] Cordova Push Notifications Plugin for Android, iOS, WP8, Windows8, BlackBerry 10 and Amazon Fire OS
 
+
 ### _This plugin is deprecated, i.e. it is no longer maintained. Going forward additional features and bug fixes will be added to the new [phonegap-plugin-push](https://github.com/phonegap/phonegap-plugin-push) repository._
 
-## <intelxdk:plugin intelxdk:name="PushPlugin" intelxdk:value="https://github.com/phonegap-build/PushPlugin.git#2.4.0"/>
+## _<intelxdk:plugin intelxdk:name="PushPlugin" intelxdk:value="https://github.com/phonegap-build/PushPlugin.git#2.4.0"/>_
 
 ## DESCRIPTION
 
