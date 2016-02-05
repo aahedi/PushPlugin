@@ -1,7 +1,12 @@
 # PUSH NOTIFICATION INTEL XDK
 
+Plugin ID: 
 ```xml
-<intelxdk:plugin intelxdk:name="PushPlugin" intelxdk:value="https://github.com/phonegap-build/PushPlugin.git#2.4.0"/>
+com.phonegap.PushPlugin
+```
+
+```xml
+<intelxdk:plugin intelxdk:name="PushPlugin" intelxdk:value="https://github.com/aahedi/PushPlugin.git#2.4.0"/>
 ```
 
 ## DESCRIPTION
